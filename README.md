@@ -63,6 +63,13 @@ print(con)cl=classification_report(y_test,y_pred)
 print(cl)
 ```
 ## Output:
+
+### data_head():
+![image](https://github.com/user-attachments/assets/b73ce5e9-57c9-4f34-8219-025a668a6dfd)
+
+### data.isnull().sum():
+![image](https://github.com/user-attachments/assets/146cbfe1-a52a-45c5-8925-e9b9d582b7fd)
+
  ### accuracy
  ![image](https://github.com/user-attachments/assets/12ddb95f-fa69-4fb4-8393-365f1ab707e7)
 
