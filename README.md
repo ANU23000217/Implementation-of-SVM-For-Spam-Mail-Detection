@@ -64,18 +64,18 @@ print(cl)
 ```
 ## Output:
 
-### data_head():
+#### data_head():
 ![image](https://github.com/user-attachments/assets/b73ce5e9-57c9-4f34-8219-025a668a6dfd)
 
-### data.isnull().sum():
+#### data.isnull().sum():
 ![image](https://github.com/user-attachments/assets/146cbfe1-a52a-45c5-8925-e9b9d582b7fd)
 
- ### accuracy
+ #### accuracy:
  ![image](https://github.com/user-attachments/assets/12ddb95f-fa69-4fb4-8393-365f1ab707e7)
 
-### Confusion matrix:
+#### Confusion matrix:
 ![image](https://github.com/user-attachments/assets/60384537-44bb-417b-be82-b3f9fb9102e8)
-### Classification report:
+#### Classification report:
 ![image](https://github.com/user-attachments/assets/1bf41ec9-d0d4-4353-9f7f-fccd4db1efe8)
 
 ## Result:
